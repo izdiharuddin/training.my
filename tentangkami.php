@@ -1,4 +1,7 @@
-﻿<!DOCTYPE HTML>
+﻿<?
+include "session.php";
+?>
+<!DOCTYPE HTML>
 <html>
 <head>
     <meta charset="utf-8">
